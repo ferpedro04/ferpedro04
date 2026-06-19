@@ -12,19 +12,5 @@ Sou estudante de tecnologia focado em desenvolvimento de software. Atualmente, e
 ### 💻 Tecnologias e Ferramentas
 
 Aqui estão as principais tecnologias com as quais trabalho e estudo no meu dia a dia:
-
-<div id="badges">
-  <img src="https://shields.io" alt="JavaScript Badge"/>
-  <img src="https://shields.io" alt="Python Badge"/>
-  <img src="https://shields.io" alt="Git Badge"/>
-  <img src="https://shields.io" alt="VS Code Badge"/>
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
+- **Linguagens:** JavaScript, Python
+- **Ferramentas:** Git, GitHub, VS Code
